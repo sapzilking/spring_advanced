@@ -30,7 +30,14 @@
 
 > ### [V2](https://github.com/merry-santa/spring_advanced/tree/master/src/main/java/hello/advanced/app/v2)
 > TODO
-> 1. HTTP 요청을 구분하고 깊이를 표현하기 위해 `TraceId`를 파라미터로 넘기는 것 말고 다른 방법 찾아보기
+> * HTTP 요청을 구분하고 깊이를 표현하기 위해 `TraceId`를 파라미터로 넘기는 것 말고 다른 방법 찾아보기
+
+***
+
+> ### [V3](https://github.com/merry-santa/spring_advanced/tree/master/src/main/java/hello/advanced/app/v3)
+> * 매번 traceId를 넘겨주던 문제를 해결함
+
+
 
 
 
