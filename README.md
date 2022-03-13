@@ -37,6 +37,11 @@
 > ### [V3](https://github.com/merry-santa/spring_advanced/tree/master/src/main/java/hello/advanced/app/v3)
 > * 매번 traceId를 넘겨주던 문제를 해결함
 
+***
+
+> ### [ThreadLocalLogTrace적용](https://github.com/sugil92/spring_advanced/blob/master/src/main/java/hello/advanced/LogTraceConfig.java)
+> * 기존에 사용하던 [FieldLogTrace](https://github.com/sugil92/spring_advanced/blob/master/src/main/java/hello/advanced/trace/logtrace/FieldLogTrace.java)는 `동시성 문제`가 발생할 수 있다. 이를 해결하기 위해 [ThreadLocalLogTrace](https://github.com/sugil92/spring_advanced/blob/master/src/main/java/hello/advanced/trace/logtrace/ThreadLocalLogTrace.java)를 적용하였다.
+
 
 
 
