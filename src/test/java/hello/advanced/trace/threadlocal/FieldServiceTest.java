@@ -31,7 +31,6 @@ public class FieldServiceTest {
 
         sleep(3000); // 메인 쓰레드 종료 대기
         log.info("main exit");
-
     }
 
     private void sleep(int millis) {
