@@ -12,7 +12,7 @@ public class TemplateMethodTest {
     @Test
     void templateMethodV0() {
         logic1();
-         logic2();
+        logic2();
     }
 
     private void logic1() {
